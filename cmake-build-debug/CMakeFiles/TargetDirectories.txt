@@ -1,0 +1,3 @@
+D:/Documents/DevelHope/C++/TempConverter/cmake-build-debug/CMakeFiles/TempConverter.dir
+D:/Documents/DevelHope/C++/TempConverter/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/DevelHope/C++/TempConverter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
